@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 20px;
+  padding: 20px;
+}
+
+.content-div {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+#first-div {
+  background-color: #e6f7ff;
+}
+
+#second-div {
+  background-color: #fff3e6;
+}
+
+.numeral-name {
+  font-weight: bold;
+  color: #336699;
+}
+
+a {
+  color: #d6336c;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+em {
+  color: #666;
+  font-style: italic;
+}
